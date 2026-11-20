@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/alrayyan/StudioProjects/selfmade_cv_login/build/linux/x64/debug/cmake_install.cmake",
+		"/home/alrayyan/StudioProjects/selfmade_cv_login/build/linux/x64/debug/flutter/cmake_install.cmake",
+		"/home/alrayyan/StudioProjects/selfmade_cv_login/build/linux/x64/debug/runner/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
